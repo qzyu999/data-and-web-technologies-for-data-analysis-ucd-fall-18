@@ -6,3 +6,4 @@ This repo contains course work completed for the Data & Web Technologies for Dat
 - hw(#): Homework assignments for #'s 1-3
 
 - final_project: Project files the final project related to San Francisco Fire Department phone calls.
+  - The final project can be viewed in 'final_project.html.'
